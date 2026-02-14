@@ -1,0 +1,8 @@
+{
+  "name": "Tressana",
+  "short_name": "Tressana",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0C0A12",
+  "theme_color": "#0C0A12"
+}
